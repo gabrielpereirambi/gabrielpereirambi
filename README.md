@@ -1,3 +1,7 @@
+#sobre mim
+##editando o perfil
+
+
 - 👋 Hi, I’m @gabrielpereirambi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
