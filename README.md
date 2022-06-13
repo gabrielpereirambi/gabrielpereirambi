@@ -2,11 +2,10 @@
 ##editando o perfil
 
 
-- 👋 Hi, I’m @gabrielpereirambi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 meu emil de contato e @gabriel.eduardopereira.lacerda@escola.pr.gov.br
+- 👀 eu estou enteresssado a aprender novas linguagens
+- 🌱 eu estou aprendendo recentemente gravar limguagem java script e scrathch
+
 
 <!---
 gabrielpereirambi/gabrielpereirambi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
